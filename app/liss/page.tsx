@@ -1,8 +1,7 @@
 export default function Page() {
     return (
       <>
-        <h1>poco</h1>
+        <h1>liss</h1>
       </>
     )
-    
 }
